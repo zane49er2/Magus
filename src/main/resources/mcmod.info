@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magusmod",
+  "name": "Magus",
+  "description": "A mod that allows for literal writing of spells.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zane49er"],
+  "credits": "PSI, and ars magicka, for inspiration.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
